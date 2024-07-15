@@ -1,6 +1,34 @@
 # java-springboot-react-interview-test
 Java springboot and React project meant for interviews
 
+---
+
+## Instructions
+
+### 1. Fork this repo with your own Github account.
+
+### 2. Implement the following:
+
+#### a. In the Spring Boot source code <b>ClientsController.java</b>, implement the following:
+
+i. Implement a <u>get</u> method that sorts a given array in alphabetical order.
+
+ii. Implement a <u>get</u> method that integrates with https://dictionaryapi.dev/ and get the definition(s) of <i>durian</i>.
+
+iii. Implement a <u>get</u> method that use the word <i>rainbow</i>, and returns an array of objects, where each character is the label and is assigned to a random colour. Each object should have the format of { label: "a", colour: "#000000" }.
+
+#### b. In the ReactJS source code <b>Home.js</b>, implement the link to a new page. Implement this new page which shows the response from the calls in 2.a.
+
+You are recommended to clone the <u>ClientList.js</u> page to help you implement the new page.
+
+### 3. Create a pull request (PR) from your forked repo to our repo (https://github.com/EMQ2/javascript-interview-projec)
+
+### 4. Send the PR link back to us for our assessment of your implementation
+
+### 5. Wait for the results!
+
+---
+
 ## Setup
 This will provide a high-level overview on how you can setup the project to begin your development. You are expected to resolve issues as needed to meet the objectives requested of you.
 

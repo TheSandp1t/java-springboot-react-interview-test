@@ -11,6 +11,7 @@ class Home extends Component {
                 <AppNavbar/>
                 <Container fluid>
                     <Button color="link"><Link to="/clients">Clients</Link></Button>
+                    /* Implement a link to a page to display the results of the interview questions */
                 </Container>
             </div>
         );

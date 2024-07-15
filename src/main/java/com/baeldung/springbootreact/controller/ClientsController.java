@@ -51,4 +51,8 @@ public class ClientsController {
         return ResponseEntity.ok().build();
     }
 
+    // Implement the following methods
+    // 1. Backend method that sorts an array of clients by name
+    // 2. Backend method that integrates with an external API
+    // 3. Backend method that generates a random set of rainbow colors
 }
