@@ -22,3 +22,24 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# react node modules
+frontend/node_modules/
+
+# react package lock
+frontend/package-lock.json
+
+# react build
+frontend/build/
+
+# vscode
+.vscode/
+
+# yarn lock
+frontend/yarn.lock
+
+# node
+frontend/node/
+
+# compiled spring boot artifacts
+target/
